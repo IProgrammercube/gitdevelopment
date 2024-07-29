@@ -21,6 +21,30 @@ Command : git remote add origin https://github.com/reponame
 Step 5:  how to Check in With remote Currently you are working
 Command:  git remote -v
 
+Step 6 : how To add Branch 
+Command : git checkout -b uat 
+
+Step 7 : how to Switch branch 
+Command : git switch
+
+Step 8 : how to check Current branch name
+Command git branch
+
+Step 9 : how To merge one Branch to other Branch
+Command : git merge uat
+
+step 10. how to get pull From any Branch 
+Command : git pull origin uat
+
+// lets Check What is Pull Request 
+1. Go to UAT Branch 
+
+
+
+
+
+
+
 
 
 
