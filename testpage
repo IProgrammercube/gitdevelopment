@@ -1,0 +1,18 @@
+Hello Everyone --> Page Testpage
+
+
+Step 1: To Check wich user is config in Editor for github
+Command :  git config user.name
+           git config user.email
+
+
+Step 2:   How to initallized Git Folder first time
+Command :  git init
+
+
+Step 3: How To get new user with Global 
+Command : git config --global user.name "roshan"
+          git config --global user.email "email" 
+
+
+
