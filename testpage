@@ -36,6 +36,10 @@ Command : git merge uat
 step 10. how to get pull From any Branch 
 Command : git pull origin uat
 
+// lets Check What is Pull Request 
+1. Go to UAT Branch 
+
+
 
 
 
