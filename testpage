@@ -30,6 +30,10 @@ Command : git switch
 Step 8 : how to check Current branch name
 Command git branch
 
+Step 9 : how To merge one Branch to other Branch
+Command : git merge uat
+
+
 
 
 
