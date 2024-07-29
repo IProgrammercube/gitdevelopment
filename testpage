@@ -14,5 +14,16 @@ Step 3: How To get new user with Global
 Command : git config --global user.name "roshan"
           git config --global user.email "email" 
 
+Step 4: How to Add Git remote
+Command : git remote add origin https://github.com/reponame
+
+
+Step 5:  how to Check in With remote Currently you are working
+Command:  git remote -v
+
+
+
+
+
 
 
