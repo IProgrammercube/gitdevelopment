@@ -33,6 +33,11 @@ Command git branch
 Step 9 : how To merge one Branch to other Branch
 Command : git merge uat
 
+step 10. how to get pull From any Branch 
+Command : git pull origin uat
+
+
+
 
 
 
